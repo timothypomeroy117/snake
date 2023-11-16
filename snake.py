@@ -23,3 +23,10 @@ print (name)
 age1 = 12
 age2 = 18
 print(age1 + age2)
+
+firstname = "avi"
+lastname = "jane"
+print(firstname + " " + lastname)
+
+sent = "avi was playing basketball"
+print(sent{0:3})
