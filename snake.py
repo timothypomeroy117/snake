@@ -19,3 +19,7 @@ print (bob)
 name, age = "avi" , 22
 print (age)
 print (name)
+
+age1 = 12
+age2 = 18
+print(age1 + age2)
