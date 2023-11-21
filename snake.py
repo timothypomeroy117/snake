@@ -30,4 +30,3 @@ print(firstname + " " + lastname)
 
 sent = "avi was playing basketball"
 print(sent[0:3])
-a
